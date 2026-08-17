@@ -1,0 +1,16 @@
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//Apple Inc.//iPhone OS 26.6//EN
+N:;Moy Hong Chiang;;;
+FN:Moy Hong Chiang
+ORG:RENN SDN BHD;
+EMAIL;type=INTERNET;type=WORK;type=pref:moy@renn.world
+TEL;type=CELL;type=VOICE;type=pref:+60 12 344 5613
+X-SOCIALPROFILE;type=Instagram;x-user=renn.world_my:x-apple:renn.world_my
+X-SOCIALPROFILE;type=WeChat;x-user=moyhongchiang:x-apple:moyhongchiang
+X-SOCIALPROFILE;type=Discord;x-user=.moyzu:x-apple:.moyzu
+item1.URL;type=pref:https://wa.me/60123445613
+item1.X-ABLabel:whatsapp
+item2.URL:https://renn.world/
+item2.X-ABLabel:website
+END:VCARD
